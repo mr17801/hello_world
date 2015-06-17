@@ -1,2 +1,3 @@
 # hello_world
-new
+print "this isn't a hello world file."
+
